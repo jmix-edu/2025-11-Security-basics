@@ -50,6 +50,7 @@
             </actions>
             <columns resizable="true">
                 <column property="name"/>
+                <column property="createdBy"/>
                 <column property="file"/>
                 <column property="notes"/>
             </columns>
